@@ -1,0 +1,9 @@
+# .gitignore
+
+# ignore directory
+__pycache__
+Data/
+
+# ignore file
+*.csv
+*.png
